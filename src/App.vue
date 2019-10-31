@@ -144,16 +144,6 @@
     text-align: center;
   }
 
-  .particles-js {
-    background-image: url("./assets/sky.jpg");
-    background-size: cover;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-
   .wrap-banner {
     position: relative;
     -webkit-align-items: center;
